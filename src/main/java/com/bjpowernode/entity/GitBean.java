@@ -8,6 +8,6 @@ public class GitBean {
 
     private String userPwd;
 
-    private String userType;
+    private String userType2;
 
 }
